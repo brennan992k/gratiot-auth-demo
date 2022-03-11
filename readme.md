@@ -3,10 +3,6 @@
 <head>
 </head>
 <body>
-<h1 align="center">Project 05-02-2020</h1>
-<h2 align="center">Hi every one, This is a my project. And there are some screens. Thanks for reviews, check and support me.</h3>
-<br/>
-<br/>
 <h2 align="center">Screen</h2>
 <div class="gallery" >
    <img src="./imageReviews/1.png" alt="Cinque Terre" width="150" height="300">
